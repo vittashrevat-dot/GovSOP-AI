@@ -37,13 +37,13 @@ for sensitive government document handling.
 ## Screenshots
 
 ### 1. Extraction Dashboard
-<img width="1916" height="1145" alt="Screenshot 2026-10-07 133325" src="https://github.com/user-attachments/assets/b12d5dd8-586f-4bd7-a9c2-a7a8d040b3b9" />
+<img width="1600" height="2431" alt="image" src="https://github.com/user-attachments/assets/11ca240c-d77b-4867-ae70-1d546e2f1709" />
 Automatically extracts action items, deadlines, responsible departments, and key
 policy changes from across the whole library into structured cards. Each item
 cites its source document, and the whole plan can be exported offline.
 
 ### 2. Auto-Organizing Directory with Compliance Alerts
-<img width="1600" height="2431" alt="image" src="https://github.com/user-attachments/assets/11ca240c-d77b-4867-ae70-1d546e2f1709" />
+<img width="1916" height="1145" alt="Screenshot 2026-10-07 133325" src="https://github.com/user-attachments/assets/b12d5dd8-586f-4bd7-a9c2-a7a8d040b3b9" />
 Every document categorized by department with metadata and visual compliance
 badges (Needs Review / Outdated Clause). Drag-and-drop upload adds new documents
 that are indexed instantly. Clicking a card opens the full document.
