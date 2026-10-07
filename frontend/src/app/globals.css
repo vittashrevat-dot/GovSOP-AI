@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-mono: "Cascadia Code", ui-monospace, SFMono-Regular, monospace;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  @apply bg-base-950 text-slate-200 antialiased;
+}
+
+/* Thin command-center scrollbars. */
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+*::-webkit-scrollbar-thumb {
+  @apply bg-base-700 rounded;
+}

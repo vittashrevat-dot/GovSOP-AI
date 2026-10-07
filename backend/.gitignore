@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Temp verification artifacts
+test_output.txt
+install_output.txt
+demo_output.txt
+startup_output.txt
+diag_output.txt
