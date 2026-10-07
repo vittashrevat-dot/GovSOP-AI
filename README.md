@@ -7,8 +7,8 @@ Local-first enterprise AI document management and decision support prototype.
 ## The Problem
 
 Government agencies manage thousands of documents — policies, SOPs, circulars,
-guidelines, reports, and meeting minutes. Finding the right information is slow
-and manual, which leads to slower decision-making and reduced productivity. The
+guidelines, reports and meeting minutes. Finding the right information is slow
+and manual which leads to slower decision-making and reduced productivity. The
 knowledge exists, but it is buried and hard to act on.
 
 ## What GovSOP AI Does
@@ -18,11 +18,11 @@ searchable, self-organizing knowledge resource so employees and stakeholders
 find the right information faster and make better decisions. It solves the
 problem on three fronts:
 
-- **Ask, don't dig (AI Assistant + Search).** Query the document library in
-  natural language and get a direct, synthesized answer with explicit source
+- **(AI Assistant + Search).** Query the document library
+  & get a direct, synthesized answer with explicit source
   citations (document ID + section) that link straight back to the source — so
-  staff trust the answer and can verify it instantly.
-- **Stay compliant automatically (Directory + Alerts).** Documents are
+  staff trust the answer and can verify it themselves instantly.
+- **(Directory + Alerts).** Documents are
   auto-organized by department with compliance badges (⚠️ Needs Review, Outdated
   Clause) and a notification bell that surfaces exactly what needs attention,
   turning a passive archive into an active compliance tool.
@@ -31,7 +31,7 @@ problem on three fronts:
   into structured cards and exportable as an offline action plan — turning dense
   documents into a to-do list for compliance officers.
 
-Everything runs locally and offline. No API keys, no external services — a fit
+Everything runs locally and offline. No API keys, no external services — fit
 for sensitive government document handling.
 
 ## Screenshots
@@ -69,7 +69,7 @@ Next.js + Tailwind (frontend, :3000)  ──HTTP──▶  FastAPI (backend, :80
 
 ## Before You Start (please read)
 
-This is a **local app you run on your own computer** — not a website you can
+Currently, this demo is a **local app you run on your own computer** — not a website you can
 open directly from GitHub. GitHub only stores the code; it does not run the
 servers for you. To use GovSOP AI you download the code and start it locally,
 then open it in your browser at `http://localhost:3000`.
